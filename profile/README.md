@@ -1,7 +1,7 @@
-### ITESM - Diplomado Internacional de Arquitectura de Software
+## ITESM - Diplomado Internacional de Arquitectura de Software
 
-## Modelo 2 - Patrones de Arquitectura Software
+# Módulo 2 - Patrones de Arquitectura Software
 
-## Patrones GoF
+# Patrones GoF
 
-Algunos patrones GoF útiles para diversos Estilos Arquitectónicos
+Algunos patrones GoF (microarquitecturas) útiles para diversos Estilos Arquitectónicos
